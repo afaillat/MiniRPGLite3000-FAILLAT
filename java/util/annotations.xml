@@ -1,0 +1,8 @@
+<root>
+    <item name='java.util.ArrayList int size()'>
+        <annotation name='org.jetbrains.annotations.Range'>
+            <val name="from" val="0"/>
+            <val name="to" val="10"/>
+        </annotation>
+    </item>
+</root>
